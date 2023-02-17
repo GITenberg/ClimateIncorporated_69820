@@ -1,0 +1,37 @@
+_repo: ClimateIncorporated_69820
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Smith, George O. (George Oliver)
+    aliases:
+    - Smith, George Oliver
+    - Long, Wesley
+    birthdate: 1911
+    deathdate: 1981
+    gutenberg_agent_id: '8137'
+    url: http://www.gutenberg.org/2009/agents/8137
+    wikipedia: https://en.wikipedia.org/wiki/George_O._Smith
+description: ''
+gutenberg_issued: '2023-01-17'
+identifiers:
+  gutenberg: '69820'
+language: en
+pgterms:marc905: 20220515104224long
+pgterms:marc906: '1948'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: 'United States: Standard Magazines, Inc.,1948.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Political fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Minnesota -- Fiction'
+- !lcsh 'Inventions -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Climate—Incorporated
+url: http://www.gutenberg.org/ebooks/69820
